@@ -1,0 +1,9 @@
+[
+  {
+    "device_id": "abc123",
+    "telemetry": [
+      { "timestamp": "2023-06-01T00:00:00", "value": 42 },
+      { "timestamp": "2023-06-01T01:00:00", "value": 43 }
+    ]
+  }
+]

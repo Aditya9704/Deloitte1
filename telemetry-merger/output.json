@@ -1,0 +1,28 @@
+[
+  {
+    "device_id": "abc123",
+    "telemetry": [
+      {
+        "timestamp": 1685557800000,
+        "value": 42
+      },
+      {
+        "timestamp": 1685561400000,
+        "value": 43
+      }
+    ]
+  },
+  {
+    "device_id": "xyz789",
+    "telemetry": [
+      {
+        "timestamp": 1685577600000,
+        "value": 55
+      },
+      {
+        "timestamp": 1685581200000,
+        "value": 56
+      }
+    ]
+  }
+]
